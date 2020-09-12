@@ -1,6 +1,8 @@
 
 
-> Total Energy is just a samll Energy calculation module. Which will take some input from user and save the data to Firebase database with User name and timestamp with current year also show the charts of his input data (Assignment)
+> This is Static Trainigworkout website which is developed just for learning pursose. It was a small Assesment which was assigned to me for completion within the time.
+
+> The content may vary to any other site but i dibn't use for any Commercial purposes. it is  just used for task only.
 
 ## How to run (Steps)
 
